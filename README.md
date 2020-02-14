@@ -15,7 +15,7 @@ ServiceBroker broker = ServiceBroker.builder()
 
 The "apiKey" role must have "Publish" and "Subscribe" privileges.
 
-## Documentation
+## Moleculer Documentation
 
 [![Documentation](https://raw.githubusercontent.com/moleculer-java/site/master/docs/docs-button.png)](https://moleculer-java.github.io/site/transporters.html#centralized-transporters)
 
