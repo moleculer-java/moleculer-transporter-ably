@@ -1,4 +1,4 @@
-## Ably.io Transporter
+## Ably.io Transporter for Moleculer Java
 
 Moleculer Transporter for [Ably.io](https://www.ably.io/).
 Ably's realtime APIs expose the entire Ably infrastructure to developers,
@@ -14,3 +14,11 @@ ServiceBroker broker = ServiceBroker.builder()
 ```
 
 The "apiKey" role must have "Publish" and "Subscribe" privileges.
+
+## Documentation
+
+[![Documentation](https://raw.githubusercontent.com/moleculer-java/site/master/docs/docs-button.png)](https://moleculer-java.github.io/site/transporters.html#centralized-transporters)
+
+## License
+
+This project is available under the [MIT license](https://tldrlegal.com/license/mit-license).
